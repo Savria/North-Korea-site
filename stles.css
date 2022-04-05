@@ -1,0 +1,32 @@
+h1{
+    color: blue;
+}
+
+
+ul{
+    border: 5px dashed;
+    width: 30%;
+    margin: auto;
+    text-align: center;
+    padding-left: 0%;
+    list-style: none;
+    color: rgba(255, 0, 51, 0.74);
+}
+
+ul li {
+    border: 3px outset;
+
+    display: inline-block;
+}
+
+img{
+    display: block;
+    width: 20%;
+    margin: auto;
+
+}
+
+
+ul li a {
+
+}
